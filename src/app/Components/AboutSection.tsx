@@ -1,3 +1,4 @@
+"use client"
 import Image from 'next/image'
 import React from 'react'
 
@@ -42,10 +43,7 @@ export default function AboutSection() {
                         with a BS Computer Science and have  been working in the field 
                         since 2021</p>
                     <br />
-                    <p>I graduated from Government College University, Lahore in 2023 
-                        with a BS Computer Science and have  been working in the field 
-                        since 2021</p>
-                    <br />
+                    
                     <p>I believe that you should{" "}
                     <span className='font-bold text-teal-500'>
                         never stop growing

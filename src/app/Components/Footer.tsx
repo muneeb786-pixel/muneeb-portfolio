@@ -8,19 +8,19 @@ export default function Footer() {
         <div className='mx-auto p-4 flex flex-col text-center text-neutral-900 md:flex-row md:justify-between'>
           <div className='text-neutral-500 dark:text-neutral-100'>© 2023 Muneeb Ur Rehman</div>
           <div className='flex flex-row items-center justify-center space-x-3 mb-1'>
-            <a href="#" target="_blank">
+            <a href="https://github.com/muneeb786-pixel" target="_blank">
               <AiOutlineGithub
               className='hover:-trasnlate-y-1 transition-transform cursor-pointer text-teal-600'
               size={30}
               />
             </a>
-            <a href="#" target="_blank">
+            <a href="https://www.linkedin.com/in/muneeb-ur-rehman-/" target="_blank">
               <AiOutlineLinkedin
               className='hover:-trasnlate-y-1 transition-transform cursor-pointer text-teal-600'
               size={30}
               />
             </a>
-            <a href="#" target="_blank">
+            <a href="https://web.facebook.com/muneeb.rehman.39982/" target="_blank">
               <AiOutlineFacebook
               className='hover:-trasnlate-y-1 transition-transform cursor-pointer text-teal-600'
               size={30}
